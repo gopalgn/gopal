@@ -1,0 +1,5 @@
+apt-get install git 
+git clone https://github.com/SrikanthPB/mavenwebhook.git
+git remote remove origin
+git add remote add https://github.com/gopalgn/gopal.git
+git push -u origin master
